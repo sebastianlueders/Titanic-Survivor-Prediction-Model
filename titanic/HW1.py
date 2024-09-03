@@ -16,6 +16,7 @@ class AdalineModel:
         self.learning_rate = learning_rate
         self.epochs = epochs
 
+    #def import(file):
 
     #def fit(self, x, y):
 
@@ -24,3 +25,5 @@ class AdalineModel:
     #def activate(self, y):
 
     #def predict(self, x):
+
+    #def ouput_results(file):
