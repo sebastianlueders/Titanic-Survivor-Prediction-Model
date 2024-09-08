@@ -1,0 +1,13 @@
+Required to run:
+
+Package the following files into a single folder:
+1. main.py
+2. TitanicSurvival.py
+3. ModelPlots.py
+4. train.csv (or another training csv file with the same column order that you will need to specify when training the model)
+5. test.csv (or another testing csv file with the same column order that you will need to specify when testing the model)
+
+Execute from Command Line:
+
+python3 main.py (then follow printed instructions)
+*** Ensure that you have Python installed and updated to the latest version
